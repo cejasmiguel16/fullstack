@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+nav {
+    margin-top: 3em;
+    padding: 2em;
+    border: solid 1px black;
+}
+
+footer {
+    margin-top: 20%;
+    background-color: cadetblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+body h2{
+    text-align: center;
+}
